@@ -226,10 +226,10 @@ body {
 }
 .project-item h3 {
     margin-top: 0;
-    color: #4f8cff;
+    color: rgb(243, 43, 43);
 }
 .project-item a {
-    color: #356ac3;
+    color: blue;
     text-decoration: none;
     font-weight: bold;
 }
